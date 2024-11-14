@@ -1,7 +1,7 @@
 ## About Me
  I'm Jem, a Full Stack Developer and graduate of Dev Academy Aotearoa.
 
- I'm originally from Wellington, but decided to move to Sydney on my developer journey. Prior to programming, my background was in customer service and sales. I'm an outgoing and enthusiastic person, and I'm excited to meet people and collaborate. I'm interested in developing both useful appliciations, or just something fun and interesting to improve my skills. Feel free to get in touch!
+ I'm originally from Wellington, but moved to Sydney on my developer journey. Prior to programming, my background was in customer service and sales. I'm an outgoing and enthusiastic person, and I'm excited to meet people and collaborate. I'm interested in developing both useful appliciations, or just something fun and interesting to improve my skills. Feel free to get in touch!
 
  ### Languages
  - JavaScript
